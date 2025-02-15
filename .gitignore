@@ -1,1 +1,13 @@
 my_secret_password.txt
+
+.Rhistory
+.RData
+.Rproj.user
+.Ruserdata
+
+
+
+#ignore certain formats
+*.csv
+*.pdf
+*.html
