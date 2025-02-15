@@ -1,0 +1,16 @@
+#ignore the file
+my_secret_key.txt
+
+#ignore certain formats:
+*.pdf
+*.html
+*.csv
+
+#ignore data
+.Rproj.user
+.Rhistory
+.RData
+.Ruderdata
+
+#ignore raw datasets
+data/*
