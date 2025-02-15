@@ -1,3 +1,7 @@
 I am working on the github tutorial!
 
+<<<<<<< HEAD
 I am really tired
+=======
+I really love working with github!
+>>>>>>> 3fbb1d11ddee702f7394ddaeeb6ea9179a42d80a
